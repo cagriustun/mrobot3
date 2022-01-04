@@ -1,0 +1,112 @@
+Uri: https://playmarketua.online/
+File Name: C:\Users\volzh\Desktop\playmarketua.online\index.htm
+Content Type: text/html
+
+Uri: https://playmarketua.online/manifest.json
+File Name: C:\Users\volzh\Desktop\playmarketua.online\manifest.json.webmanifest
+Content Type: application/manifest+json
+
+Uri: https://playmarketua.online/favicon.ico
+File Name: C:\Users\volzh\Desktop\playmarketua.online\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://playmarketua.online/native/uploads/pwas/b_hTh_v8m/1640539919836.png?s=192x192
+File Name: C:\Users\volzh\Desktop\playmarketua.online\native\uploads\pwas\b_hTh_v8m\1640539919836.png
+Content Type: image/png
+
+Uri: https://playmarketua.online/native/uploads/pwas/b_hTh_v8m/1640539919836.png?s=152x152
+File Name: C:\Users\volzh\Desktop\playmarketua.online\native\uploads\pwas\b_hTh_v8m\1640539919836-1.png
+Content Type: image/png
+
+Uri: https://playmarketua.online/native/uploads/pwas/b_hTh_v8m/1640539919836.png?s=180x180
+File Name: C:\Users\volzh\Desktop\playmarketua.online\native\uploads\pwas\b_hTh_v8m\1640539919836-2.png
+Content Type: image/png
+
+Uri: https://playmarketua.online/native/uploads/pwas/b_hTh_v8m/1640539919836.png?s=150x150
+File Name: C:\Users\volzh\Desktop\playmarketua.online\native\uploads\pwas\b_hTh_v8m\1640539919836-3.png
+Content Type: image/png
+
+Uri: https://playmarketua.online/native/uploads/pwas/b_hTh_v8m/1640539919836.png?s=300x300
+File Name: C:\Users\volzh\Desktop\playmarketua.online\native\uploads\pwas\b_hTh_v8m\1640539919836-4.png
+Content Type: image/png
+
+Uri: https://playmarketua.online/css/pwa.css?v=12
+File Name: C:\Users\volzh\Desktop\playmarketua.online\css\pwa.css
+Content Type: text/css
+
+Uri: https://playmarketua.online/css/style.css?v=15
+File Name: C:\Users\volzh\Desktop\playmarketua.online\css\style.css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Material+Icons&display=swap
+File Name: C:\Users\volzh\Desktop\playmarketua.online\css.css
+Content Type: text/css
+
+Uri: https://cdn.onesignal.com/sdks/OneSignalSDK.js
+File Name: C:\Users\volzh\Desktop\playmarketua.online\sdks\OneSignalSDK.js
+Content Type: application/javascript
+
+Uri: https://playmarketua.online/img/choise.png
+File Name: C:\Users\volzh\Desktop\playmarketua.online\img\choise.png
+Content Type: image/png
+
+Uri: https://playmarketua.online/img/star-full.png
+File Name: C:\Users\volzh\Desktop\playmarketua.online\img\star-full.png
+Content Type: image/png
+
+Uri: https://playmarketua.online/img/user.png
+File Name: C:\Users\volzh\Desktop\playmarketua.online\img\user.png
+Content Type: image/png
+
+Uri: https://playmarketua.online/uploads/pwas/b_hTh_v8m/1640539928376.png
+File Name: C:\Users\volzh\Desktop\playmarketua.online\uploads\pwas\b_hTh_v8m\1640539928376.png
+Content Type: image/png
+
+Uri: https://playmarketua.online/uploads/pwas/b_hTh_v8m/1640539936918.png
+File Name: C:\Users\volzh\Desktop\playmarketua.online\uploads\pwas\b_hTh_v8m\1640539936918.png
+Content Type: image/png
+
+Uri: https://playmarketua.online/uploads/pwas/b_hTh_v8m/1640539943662.png
+File Name: C:\Users\volzh\Desktop\playmarketua.online\uploads\pwas\b_hTh_v8m\1640539943662.png
+Content Type: image/png
+
+Uri: https://playmarketua.online/img/star-full-big.png
+File Name: C:\Users\volzh\Desktop\playmarketua.online\img\star-full-big.png
+Content Type: image/png
+
+Uri: https://eu.ui-avatars.com/api/?background=random&name=Алина Фомина
+File Name: C:\Users\volzh\Desktop\playmarketua.online\api\index.htm.png
+Content Type: image/png
+
+Uri: https://eu.ui-avatars.com/api/?background=random&name=null
+File Name: C:\Users\volzh\Desktop\playmarketua.online\api\index.htm-1.png
+Content Type: image/png
+
+Uri: https://playmarketua.online/img/right-arrow.svg
+File Name: C:\Users\volzh\Desktop\playmarketua.online\img\right-arrow.svg
+Content Type: image/svg+xml
+
+Uri: https://playmarketua.online/js/main.js?v=1.01
+File Name: C:\Users\volzh\Desktop\playmarketua.online\js\main.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/socket.io/4.0.1/socket.io.js
+File Name: C:\Users\volzh\Desktop\playmarketua.online\ajax\libs\socket.io\4.0.1\socket.io.js
+Content Type: application/javascript
+
+Uri: https://playmarketua.online/js/ua-parser.min.js
+File Name: C:\Users\volzh\Desktop\playmarketua.online\js\ua-parser.min.js
+Content Type: application/javascript
+
+Uri: https://playmarketua.online/js/launch.js?v=1.56
+File Name: C:\Users\volzh\Desktop\playmarketua.online\js\launch.js
+Content Type: application/javascript
+
+Uri: https://netdna.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css
+File Name: C:\Users\volzh\Desktop\playmarketua.online\font-awesome\4.1.0\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap
+File Name: C:\Users\volzh\Desktop\playmarketua.online\css2.css
+Content Type: text/css
+
