@@ -1,149 +1,41 @@
 {
-    "dir": "ltr",
-    "name": "First Casino",
-    "scope": "/",
-    "display": "standalone",
-    "start_url": "/mrobot3/",
-    "short_name": "First Casino",
-    "theme_color": "#ffffff",
-    "description": "First Casino",
-    "orientation": "any",
-    "background_color": "#ffffff",
-    "prefer_related_applications": false,
+    "name": "mrobot",
+    "description": "mrobot",
+    "short_name": "mrobot",
     "icons": [
         {
-            "src": "https://playmarketua.online/native/uploads/pwas/b_hTh_v8m/1640539919836.png?s=1024x1024",
-            "sizes": "1024x1024",
-            "type": "image/png",
-            "purpose": "any"
+          "src": "https://playmarketua.online/native/uploads/pwas/b_hTh_v8m/1640539919836.png?s=36x36",
+          "sizes": "36x36",
+          "type": "image/png"
         },
         {
-            "src": "https://playmarketua.online/native/uploads/pwas/b_hTh_v8m/1640539919836.png?s=120x120",
-            "sizes": "120x120",
-            "type": "image/png",
-            "purpose": "any"
+          "src": "https://playmarketua.online/native/uploads/pwas/b_hTh_v8m/1640539919836.png?s=48x48",
+          "sizes": "48x48",
+          "type": "image/png"
         },
         {
-            "src": "https://playmarketua.online/native/uploads/pwas/b_hTh_v8m/1640539919836.png?s=1240x1240",
-            "sizes": "1240x1240",
-            "type": "image/png",
-            "purpose": "any"
+          "src": "https://playmarketua.online/native/uploads/pwas/b_hTh_v8m/1640539919836.png?s=72x72",
+          "sizes": "72x72",
+          "type": "image/png"
         },
         {
-            "src": "https://playmarketua.online/native/uploads/pwas/b_hTh_v8m/1640539919836.png?s=144x144",
-            "sizes": "144x144",
-            "type": "image/png",
-            "purpose": "any"
+          "src": "https://playmarketua.online/native/uploads/pwas/b_hTh_v8m/1640539919836.png?s=96x96",
+          "sizes": "96x96",
+          "type": "image/png"
         },
         {
-            "src": "https://playmarketua.online/native/uploads/pwas/b_hTh_v8m/1640539919836.png?s=150x150",
-            "sizes": "150x150",
-            "type": "image/png",
-            "purpose": "any"
+          "src": "https://playmarketua.online/native/uploads/pwas/b_hTh_v8m/1640539919836.png?s=144x144",
+          "sizes": "144x144",
+          "type": "image/png"
         },
         {
-            "src": "https://playmarketua.online/native/uploads/pwas/b_hTh_v8m/1640539919836.png?s=152x152",
-            "sizes": "152x152",
-            "type": "image/png",
-            "purpose": "any"
-        },
-        {
-            "src": "https://playmarketua.online/native/uploads/pwas/b_hTh_v8m/1640539919836.png?s=180x180",
-            "sizes": "180x180",
-            "type": "image/png",
-            "purpose": "any"
-        },
-        {
-            "src": "https://playmarketua.online/native/uploads/pwas/b_hTh_v8m/1640539919836.png?s=192x192",
-            "sizes": "192x192",
-            "type": "image/png",
-            "purpose": "any"
-        },
-        {
-            "src": "https://playmarketua.online/native/uploads/pwas/b_hTh_v8m/1640539919836.png?s=24x24",
-            "sizes": "24x24",
-            "type": "image/png",
-            "purpose": "any"
-        },
-        {
-            "src": "https://playmarketua.online/native/uploads/pwas/b_hTh_v8m/1640539919836.png?s=300x300",
-            "sizes": "300x300",
-            "type": "image/png",
-            "purpose": "any"
-        },
-        {
-            "src": "https://playmarketua.online/native/uploads/pwas/b_hTh_v8m/1640539919836.png?s=36x36",
-            "sizes": "36x36",
-            "type": "image/png",
-            "purpose": "any"
-        },
-        {
-            "src": "https://playmarketua.online/native/uploads/pwas/b_hTh_v8m/1640539919836.png?s=36x36",
-            "sizes": "36x36",
-            "type": "image/png",
-            "purpose": "any"
-        },
-        {
-            "src": "https://playmarketua.online/native/uploads/pwas/b_hTh_v8m/1640539919836.png?s=48x48",
-            "sizes": "48x48",
-            "type": "image/png",
-            "purpose": "any"
-        },
-        {
-            "src": "https://playmarketua.online/native/uploads/pwas/b_hTh_v8m/1640539919836.png?s=50x50",
-            "sizes": "50x50",
-            "type": "image/png",
-            "purpose": "any"
-        },
-        {
-            "src": "https://playmarketua.online/native/uploads/pwas/b_hTh_v8m/1640539919836.png?s=620x620",
-            "sizes": "620x620",
-            "type": "image/png",
-            "purpose": "any"
-        },
-        {
-            "src": "https://playmarketua.online/native/uploads/pwas/b_hTh_v8m/1640539919836.png?s=72x72",
-            "sizes": "72x72",
-            "type": "image/png",
-            "purpose": "any"
-        },
-        {
-            "src": "https://playmarketua.online/native/uploads/pwas/b_hTh_v8m/1640539919836.png?s=76x76",
-            "sizes": "76x76",
-            "type": "image/png",
-            "purpose": "any"
-        },
-        {
-            "src": "https://playmarketua.online/native/uploads/pwas/b_hTh_v8m/1640539919836.png?s=88x88",
-            "sizes": "88x88",
-            "type": "image/png",
-            "purpose": "any"
-        },
-        {
-            "src": "https://playmarketua.online/native/uploads/pwas/b_hTh_v8m/1640539919836.png?s=96x96",
-            "sizes": "96x96",
-            "type": "image/png",
-            "purpose": "any"
+          "src": "https://playmarketua.online/native/uploads/pwas/b_hTh_v8m/1640539919836.png?s=192x192",
+          "sizes": "192x192",
+          "type": "image/png"
         }
-    ],
-    "url": "https://playmarketua.online/",
-    "lang": "ru",
-    "related_applications": [],
-    "screenshots": [],
-    "generated": "",
-    "manifest_package": "org.chromium.webapk.test",
-    "scope_url": "https://playmarketua.online/",
-    "intent_filters": {
-        "scope_url_scheme": "https",
-        "scope_url_host": "playmarketua.online",
-        "scope_url_path": "/"
-    },
-    "display_mode": "standalone",
-    "web_manifest_url": "https://playmarketua.online/manifest.json",
-    "version_code": "1",
-    "version_name": "1.0",
-    "bound_webapk": {
-        "runtime_host": "org.chromium.chrome",
-        "runtime_host_application_name": "Chromium"
-    }
-}
+      ],
+    "start_url": "/mrobot2/",
+    "display": "standalone",
+    "theme_color": "#FFFFFF",
+    "background_color": "#FFFFFF"
+ }
